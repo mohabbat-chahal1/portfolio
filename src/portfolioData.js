@@ -30,13 +30,13 @@ export const openSourceCards = [
   {
     label: "BACKEND ARCHITECTURE",
     title: "Relational data structures, type-safe APIs, and clean services.",
-    image: "/assets/project-sentinel.png",
+    image: "assets/project-sentinel.png",
     tags: ["Node.js", "NestJS", "PostgreSQL"],
   },
   {
     label: "FRONTEND SYSTEMS",
     title: "Responsive interfaces built for clarity and speed.",
-    image: "/assets/project-image-converter.png",
+    image: "assets/project-image-converter.png",
     tags: ["React.js", "Vite", "Tailwind CSS"],
   },
 ];
@@ -47,7 +47,7 @@ export const projects = [
     date: "Featured Backend Build",
     title: "LedgerX",
     subtitle: "Ledger Management System",
-    image: "/assets/project-sentinel.png",
+    image: "assets/project-sentinel.png",
     repo: "https://github.com/mohabbat-chahal/LedgerX",
     summary:
       "A robust, type-safe financial ledger management system for tracking transactions, balances, and audit trails.",
@@ -60,7 +60,7 @@ export const projects = [
     date: "Frontend Web Build",
     title: "Chahal Restro",
     subtitle: "Responsive Dining Platform",
-    image: "/assets/project-image-converter.png",
+    image: "assets/project-image-converter.png",
     repo: "https://github.com/mohabbat-chahal/Chahal-Restro",
     summary:
       "A modern, fast, and responsive digital dining platform built with utility-first styling and fluid layout transitions.",
@@ -73,7 +73,7 @@ export const projects = [
     date: "Python Desktop Utility",
     title: "Smart Dairy Tool",
     subtitle: "ERP Operations & Dairy Management",
-    image: "/assets/project-aeternum.png",
+    image: "assets/project-aeternum.png",
     repo: "https://github.com/mohabbat-chahal/Smart-Dairy-Tool",
     summary:
       "A desktop ERP-style operational management utility for tracking daily milk collection, inventory, and supplier accounts.",
@@ -86,7 +86,7 @@ export const projects = [
     date: "Interactive Web Game",
     title: "Chess Game",
     subtitle: "Web Chess Engine",
-    image: "/assets/project-climate.png",
+    image: "assets/project-climate.png",
     repo: "https://github.com/mohabbat-chahal/Chess-Game",
     summary:
       "An interactive web-based chess game engine with move validation and real-time board state management.",
@@ -130,7 +130,7 @@ export const milestones = [
     title: "200+ Solved Coding Problems",
     description:
       "Solved more than 200 programming problems on online platforms during regular practice, strengthening data structure and algorithm fundamentals.",
-    image: "/assets/project-sentinel.png",
+    image: "assets/project-sentinel.png",
     tag: "Problem Solving",
   },
   {
@@ -139,7 +139,7 @@ export const milestones = [
     title: "Type-Safe Systems & ORMs",
     description:
       "Architected LedgerX using NestJS, Prisma, and PostgreSQL, focusing on financial integrity, relational schemas, and modular services.",
-    image: "/assets/project-image-converter.png",
+    image: "assets/project-image-converter.png",
     tag: "Backend Systems",
   },
   {
@@ -148,7 +148,7 @@ export const milestones = [
     title: "Cisco & IBM Certifications",
     description:
       "Earned verified accreditations in Python Essentials 1 (Cisco / Python Institute) and Generative AI (IBM / edX).",
-    image: "/assets/project-aeternum.png",
+    image: "assets/project-aeternum.png",
     tag: "Verified Industry Credentials",
   },
 ];

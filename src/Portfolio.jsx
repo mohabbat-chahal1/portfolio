@@ -286,7 +286,7 @@ export default function Portfolio() {
           <figure className="hero__portrait" data-hero="portrait">
             <div className="hero__portrait-frame">
               <img
-                src="/assets/mohabbat-portrait.jpg"
+                src="assets/mohabbat-portrait.jpg"
                 alt="Portrait of Mohabbatpal Singh Chahal in a turban and vest"
                 fetchPriority="high"
               />
